@@ -2,7 +2,7 @@
 
 A single-page web app for planning a semester at the Singapore University of Social Sciences (SUSS). Upload the official PDFs, pick a class group for each course, and the planner checks for clashes on every real session date. That includes one-off sessions, exams and overseas trip dates, not just the usual weekly slot.
 
-**Live demo:** `https://<your-username>.github.io/suss-timetable-planner/`. Click **Try with sample data** if you don't have the PDFs.
+**Live demo:** https://yushenn.github.io/eCR/. Click **Try with sample data** if you don't have the PDFs.
 
 ## Why I built it
 
