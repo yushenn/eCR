@@ -35,7 +35,7 @@ Nothing is uploaded to a server. PDFs are parsed in the browser with [PDF.js](ht
 
 Plain HTML, CSS and JavaScript in one file, with no build step. PDF.js is loaded from cdnjs.
 
-Built with AI assistance (Claude). I defined the problem, the requirements and the edge cases (alternating session lengths, exams, trips clashing with special-semester classes, courses spanning two semesters), and tested the results against the real SUSS timetable.
+I defined the problem, the requirements and the edge cases (alternating session lengths, exams, trips clashing with special-semester classes, courses spanning two semesters), and tested the results against the real SUSS timetable.
 
 ## Disclaimer
 
